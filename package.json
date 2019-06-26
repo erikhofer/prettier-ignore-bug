@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "prettier-check \"**/*\""
+    "start": "prettier-check \"src/**/*\""
   },
   "author": "",
   "license": "ISC",
