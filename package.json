@@ -1,0 +1,15 @@
+{
+  "name": "prettier-ignore-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "prettier-check \"**/*\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.18.2",
+    "prettier-check": "^2.0.0"
+  }
+}
